@@ -1,5 +1,5 @@
 ### Hi there, I'm Admir Junior 👋
 
-I'm pursuing a masters degree in Neotropical Biodiversity, at the Federal University of Latin-american Integration. 
-My research is about the use of statistical and machine learning techniques in ecological modelling.
-I'm interested in all things about modelling the ecosystems, from math to philosophy.
+I'm a mix of ecologist and mathematician, with skills in data science and programming.
+My research centers on the development and application of computational approaches to ecological modeling.
+Currently I'm working in some R packages development.
