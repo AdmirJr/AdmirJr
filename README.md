@@ -2,7 +2,7 @@
   Hi there, I'm Admir Junior 👋
 </h3>
 <p align="center">
-  Predoctoral Researcher at Bothanical Institute of Barcelona
+  Predoctoral Researcher at the Botanical Institute of Barcelona
 </p>
 
 I’m an ecologist and data scientist working primarily in computational and theoretical ecology. My skills range from programming and statistical analysis to data visualization.
